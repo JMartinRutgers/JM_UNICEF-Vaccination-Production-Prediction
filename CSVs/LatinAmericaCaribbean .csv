@@ -30,7 +30,6 @@ Latin America & Caribbean,2015,Antigua and Barbuda,DTP1,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2015,Antigua and Barbuda,DTP3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2015,Antigua and Barbuda,Hepb3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2015,Antigua and Barbuda,Hib3,1000.0,1000.0,0.0,99
-Latin America & Caribbean,2015,Antigua and Barbuda,IPV1,1000.0,,,21
 Latin America & Caribbean,2015,Antigua and Barbuda,MCV1,1000.0,1000.0,0.0,91
 Latin America & Caribbean,2015,Antigua and Barbuda,MCV2,1000.0,1000.0,0.0,84
 Latin America & Caribbean,2015,Antigua and Barbuda,Pol3,1000.0,1000.0,0.0,86
@@ -104,7 +103,6 @@ Latin America & Caribbean,2006,Antigua and Barbuda,DTP3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2006,Antigua and Barbuda,Hepb3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2006,Antigua and Barbuda,Hib3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2006,Antigua and Barbuda,MCV1,1000.0,1000.0,0.0,99
-Latin America & Caribbean,2006,Antigua and Barbuda,MCV2,1000.0,,,68
 Latin America & Caribbean,2006,Antigua and Barbuda,Pol3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2006,Antigua and Barbuda,RCV1,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2005,Antigua and Barbuda,DTP1,1000.0,1000.0,0.0,99
@@ -112,7 +110,6 @@ Latin America & Caribbean,2005,Antigua and Barbuda,DTP3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2005,Antigua and Barbuda,Hepb3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2005,Antigua and Barbuda,Hib3,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2005,Antigua and Barbuda,MCV1,1000.0,1000.0,0.0,99
-Latin America & Caribbean,2005,Antigua and Barbuda,MCV2,1000.0,,,46
 Latin America & Caribbean,2005,Antigua and Barbuda,Pol3,1000.0,1000.0,0.0,98
 Latin America & Caribbean,2005,Antigua and Barbuda,RCV1,1000.0,1000.0,0.0,99
 Latin America & Caribbean,2004,Antigua and Barbuda,DTP1,1000.0,1000.0,0.0,99
@@ -423,7 +420,6 @@ Latin America & Caribbean,2016,Bahamas,MCV2,6000.0,4000.0,2000.0,74
 Latin America & Caribbean,2016,Bahamas,PCV3,5000.0,5000.0,0.0,94
 Latin America & Caribbean,2016,Bahamas,Pol3,5000.0,5000.0,0.0,94
 Latin America & Caribbean,2016,Bahamas,RCV1,5000.0,5000.0,0.0,89
-Latin America & Caribbean,2016,Bahamas,Rotac,5000.0,,,11
 Latin America & Caribbean,2015,Bahamas,DTP1,5000.0,5000.0,0.0,99
 Latin America & Caribbean,2015,Bahamas,DTP3,5000.0,5000.0,0.0,95
 Latin America & Caribbean,2015,Bahamas,Hepb3,5000.0,5000.0,0.0,95
@@ -467,7 +463,6 @@ Latin America & Caribbean,2011,Bahamas,Hepb3,5000.0,5000.0,0.0,95
 Latin America & Caribbean,2011,Bahamas,Hib3,5000.0,5000.0,0.0,98
 Latin America & Caribbean,2011,Bahamas,MCV1,5000.0,5000.0,0.0,90
 Latin America & Caribbean,2011,Bahamas,MCV2,6000.0,5000.0,1000.0,79
-Latin America & Caribbean,2011,Bahamas,PCV3,5000.0,,,1
 Latin America & Caribbean,2011,Bahamas,Pol3,5000.0,5000.0,0.0,97
 Latin America & Caribbean,2011,Bahamas,RCV1,5000.0,5000.0,0.0,90
 Latin America & Caribbean,2010,Bahamas,DTP1,5000.0,5000.0,0.0,99
@@ -476,7 +471,6 @@ Latin America & Caribbean,2010,Bahamas,Hepb3,5000.0,5000.0,0.0,98
 Latin America & Caribbean,2010,Bahamas,Hib3,5000.0,5000.0,0.0,98
 Latin America & Caribbean,2010,Bahamas,MCV1,5000.0,5000.0,0.0,94
 Latin America & Caribbean,2010,Bahamas,MCV2,6000.0,5000.0,1000.0,78
-Latin America & Caribbean,2010,Bahamas,PCV3,5000.0,,,1
 Latin America & Caribbean,2010,Bahamas,Pol3,5000.0,5000.0,0.0,97
 Latin America & Caribbean,2010,Bahamas,RCV1,5000.0,5000.0,0.0,94
 Latin America & Caribbean,2009,Bahamas,DTP1,5000.0,5000.0,0.0,99
@@ -485,7 +479,6 @@ Latin America & Caribbean,2009,Bahamas,Hepb3,5000.0,5000.0,0.0,95
 Latin America & Caribbean,2009,Bahamas,Hib3,5000.0,5000.0,0.0,96
 Latin America & Caribbean,2009,Bahamas,MCV1,5000.0,5000.0,0.0,98
 Latin America & Caribbean,2009,Bahamas,MCV2,6000.0,5000.0,1000.0,76
-Latin America & Caribbean,2009,Bahamas,PCV3,5000.0,,,3
 Latin America & Caribbean,2009,Bahamas,Pol3,5000.0,5000.0,0.0,97
 Latin America & Caribbean,2009,Bahamas,RCV1,5000.0,5000.0,0.0,98
 Latin America & Caribbean,2008,Bahamas,DTP1,5000.0,5000.0,0.0,99
@@ -722,10 +715,7 @@ Latin America & Caribbean,2002,Barbados,Pol3,4000.0,3000.0,1000.0,86
 Latin America & Caribbean,2002,Barbados,RCV1,4000.0,3000.0,1000.0,91
 Latin America & Caribbean,2001,Barbados,DTP1,4000.0,3000.0,1000.0,92
 Latin America & Caribbean,2001,Barbados,DTP3,4000.0,3000.0,1000.0,84
-Latin America & Caribbean,2001,Barbados,Hepb3,4000.0,,,18
-Latin America & Caribbean,2001,Barbados,Hib3,4000.0,,,18
 Latin America & Caribbean,2001,Barbados,MCV1,4000.0,3000.0,1000.0,93
-Latin America & Caribbean,2001,Barbados,MCV2,4000.0,,,12
 Latin America & Caribbean,2001,Barbados,Pol3,4000.0,3000.0,1000.0,93
 Latin America & Caribbean,2001,Barbados,RCV1,4000.0,3000.0,1000.0,93
 Latin America & Caribbean,2000,Barbados,DTP1,4000.0,3000.0,1000.0,93
@@ -784,7 +774,6 @@ Latin America & Caribbean,2015,Belize,DTP1,8000.0,8000.0,0.0,97
 Latin America & Caribbean,2015,Belize,DTP3,8000.0,7000.0,1000.0,94
 Latin America & Caribbean,2015,Belize,Hepb3,8000.0,7000.0,1000.0,94
 Latin America & Caribbean,2015,Belize,Hib3,8000.0,7000.0,1000.0,94
-Latin America & Caribbean,2015,Belize,IPV1,8000.0,,,7
 Latin America & Caribbean,2015,Belize,MCV1,8000.0,7000.0,1000.0,96
 Latin America & Caribbean,2015,Belize,MCV2,8000.0,7000.0,1000.0,95
 Latin America & Caribbean,2015,Belize,Pol3,8000.0,7000.0,1000.0,94
@@ -2242,188 +2231,6 @@ Latin America & Caribbean,1997,Cuba,Hepb3,151000.0,148000.0,3000.0,98
 Latin America & Caribbean,1997,Cuba,MCV1,151000.0,145000.0,6000.0,96
 Latin America & Caribbean,1997,Cuba,Pol3,151000.0,147000.0,4000.0,97
 Latin America & Caribbean,1997,Cuba,RCV1,151000.0,145000.0,6000.0,96
-Latin America & Caribbean,2018,Dominica,BCG,,,,95
-Latin America & Caribbean,2018,Dominica,DTP1,,,,99
-Latin America & Caribbean,2018,Dominica,DTP3,,,,94
-Latin America & Caribbean,2018,Dominica,Hepb3,,,,94
-Latin America & Caribbean,2018,Dominica,Hepbb,,,,46
-Latin America & Caribbean,2018,Dominica,Hib3,,,,94
-Latin America & Caribbean,2018,Dominica,IPV1,,,,99
-Latin America & Caribbean,2018,Dominica,MCV1,,,,84
-Latin America & Caribbean,2018,Dominica,MCV2,,,,81
-Latin America & Caribbean,2018,Dominica,Pol3,,,,94
-Latin America & Caribbean,2018,Dominica,RCV1,,,,84
-Latin America & Caribbean,2017,Dominica,BCG,,,,97
-Latin America & Caribbean,2017,Dominica,DTP1,,,,98
-Latin America & Caribbean,2017,Dominica,DTP3,,,,91
-Latin America & Caribbean,2017,Dominica,Hepb3,,,,91
-Latin America & Caribbean,2017,Dominica,Hepbb,,,,23
-Latin America & Caribbean,2017,Dominica,Hib3,,,,91
-Latin America & Caribbean,2017,Dominica,IPV1,,,,98
-Latin America & Caribbean,2017,Dominica,MCV1,,,,77
-Latin America & Caribbean,2017,Dominica,MCV2,,,,81
-Latin America & Caribbean,2017,Dominica,Pol3,,,,91
-Latin America & Caribbean,2017,Dominica,RCV1,,,,77
-Latin America & Caribbean,2016,Dominica,BCG,,,,98
-Latin America & Caribbean,2016,Dominica,DTP1,,,,99
-Latin America & Caribbean,2016,Dominica,DTP3,,,,99
-Latin America & Caribbean,2016,Dominica,Hepb3,,,,99
-Latin America & Caribbean,2016,Dominica,Hib3,,,,99
-Latin America & Caribbean,2016,Dominica,IPV1,,,,99
-Latin America & Caribbean,2016,Dominica,MCV1,,,,96
-Latin America & Caribbean,2016,Dominica,MCV2,,,,92
-Latin America & Caribbean,2016,Dominica,Pol3,,,,99
-Latin America & Caribbean,2016,Dominica,RCV1,,,,96
-Latin America & Caribbean,2015,Dominica,BCG,,,,98
-Latin America & Caribbean,2015,Dominica,DTP1,,,,99
-Latin America & Caribbean,2015,Dominica,DTP3,,,,98
-Latin America & Caribbean,2015,Dominica,Hepb3,,,,98
-Latin America & Caribbean,2015,Dominica,Hib3,,,,98
-Latin America & Caribbean,2015,Dominica,IPV1,,,,36
-Latin America & Caribbean,2015,Dominica,MCV1,,,,96
-Latin America & Caribbean,2015,Dominica,MCV2,,,,94
-Latin America & Caribbean,2015,Dominica,Pol3,,,,98
-Latin America & Caribbean,2015,Dominica,RCV1,,,,96
-Latin America & Caribbean,2014,Dominica,BCG,,,,98
-Latin America & Caribbean,2014,Dominica,DTP1,,,,99
-Latin America & Caribbean,2014,Dominica,DTP3,,,,97
-Latin America & Caribbean,2014,Dominica,Hepb3,,,,97
-Latin America & Caribbean,2014,Dominica,Hib3,,,,97
-Latin America & Caribbean,2014,Dominica,MCV1,,,,94
-Latin America & Caribbean,2014,Dominica,MCV2,,,,89
-Latin America & Caribbean,2014,Dominica,Pol3,,,,97
-Latin America & Caribbean,2014,Dominica,RCV1,,,,94
-Latin America & Caribbean,2013,Dominica,BCG,,,,97
-Latin America & Caribbean,2013,Dominica,DTP1,,,,98
-Latin America & Caribbean,2013,Dominica,DTP3,,,,96
-Latin America & Caribbean,2013,Dominica,Hepb3,,,,96
-Latin America & Caribbean,2013,Dominica,Hib3,,,,96
-Latin America & Caribbean,2013,Dominica,MCV1,,,,93
-Latin America & Caribbean,2013,Dominica,MCV2,,,,91
-Latin America & Caribbean,2013,Dominica,Pol3,,,,96
-Latin America & Caribbean,2013,Dominica,RCV1,,,,93
-Latin America & Caribbean,2012,Dominica,BCG,,,,98
-Latin America & Caribbean,2012,Dominica,DTP1,,,,98
-Latin America & Caribbean,2012,Dominica,DTP3,,,,97
-Latin America & Caribbean,2012,Dominica,Hepb3,,,,97
-Latin America & Caribbean,2012,Dominica,Hib3,,,,97
-Latin America & Caribbean,2012,Dominica,MCV1,,,,99
-Latin America & Caribbean,2012,Dominica,MCV2,,,,94
-Latin America & Caribbean,2012,Dominica,Pol3,,,,97
-Latin America & Caribbean,2012,Dominica,RCV1,,,,99
-Latin America & Caribbean,2011,Dominica,BCG,,,,98
-Latin America & Caribbean,2011,Dominica,DTP1,,,,99
-Latin America & Caribbean,2011,Dominica,DTP3,,,,98
-Latin America & Caribbean,2011,Dominica,Hepb3,,,,98
-Latin America & Caribbean,2011,Dominica,Hib3,,,,98
-Latin America & Caribbean,2011,Dominica,MCV1,,,,99
-Latin America & Caribbean,2011,Dominica,MCV2,,,,94
-Latin America & Caribbean,2011,Dominica,Pol3,,,,98
-Latin America & Caribbean,2011,Dominica,RCV1,,,,99
-Latin America & Caribbean,2010,Dominica,BCG,,,,99
-Latin America & Caribbean,2010,Dominica,DTP1,,,,99
-Latin America & Caribbean,2010,Dominica,DTP3,,,,98
-Latin America & Caribbean,2010,Dominica,Hepb3,,,,98
-Latin America & Caribbean,2010,Dominica,Hib3,,,,98
-Latin America & Caribbean,2010,Dominica,MCV1,,,,99
-Latin America & Caribbean,2010,Dominica,MCV2,,,,95
-Latin America & Caribbean,2010,Dominica,Pol3,,,,99
-Latin America & Caribbean,2010,Dominica,RCV1,,,,99
-Latin America & Caribbean,2009,Dominica,BCG,,,,99
-Latin America & Caribbean,2009,Dominica,DTP1,,,,99
-Latin America & Caribbean,2009,Dominica,DTP3,,,,99
-Latin America & Caribbean,2009,Dominica,Hepb3,,,,99
-Latin America & Caribbean,2009,Dominica,Hib3,,,,99
-Latin America & Caribbean,2009,Dominica,MCV1,,,,99
-Latin America & Caribbean,2009,Dominica,MCV2,,,,95
-Latin America & Caribbean,2009,Dominica,Pol3,,,,99
-Latin America & Caribbean,2009,Dominica,RCV1,,,,99
-Latin America & Caribbean,2008,Dominica,BCG,,,,98
-Latin America & Caribbean,2008,Dominica,DTP1,,,,96
-Latin America & Caribbean,2008,Dominica,DTP3,,,,96
-Latin America & Caribbean,2008,Dominica,Hepb3,,,,96
-Latin America & Caribbean,2008,Dominica,Hib3,,,,96
-Latin America & Caribbean,2008,Dominica,MCV1,,,,99
-Latin America & Caribbean,2008,Dominica,MCV2,,,,95
-Latin America & Caribbean,2008,Dominica,Pol3,,,,95
-Latin America & Caribbean,2008,Dominica,RCV1,,,,99
-Latin America & Caribbean,2007,Dominica,BCG,,,,90
-Latin America & Caribbean,2007,Dominica,DTP1,,,,98
-Latin America & Caribbean,2007,Dominica,DTP3,,,,96
-Latin America & Caribbean,2007,Dominica,Hepb3,,,,93
-Latin America & Caribbean,2007,Dominica,Hib3,,,,93
-Latin America & Caribbean,2007,Dominica,MCV1,,,,96
-Latin America & Caribbean,2007,Dominica,MCV2,,,,95
-Latin America & Caribbean,2007,Dominica,Pol3,,,,93
-Latin America & Caribbean,2007,Dominica,RCV1,,,,96
-Latin America & Caribbean,2006,Dominica,BCG,,,,99
-Latin America & Caribbean,2006,Dominica,DTP1,,,,98
-Latin America & Caribbean,2006,Dominica,DTP3,,,,95
-Latin America & Caribbean,2006,Dominica,Hepb3,,,,7
-Latin America & Caribbean,2006,Dominica,Hib3,,,,7
-Latin America & Caribbean,2006,Dominica,MCV1,,,,97
-Latin America & Caribbean,2006,Dominica,MCV2,,,,99
-Latin America & Caribbean,2006,Dominica,Pol3,,,,96
-Latin America & Caribbean,2006,Dominica,RCV1,,,,97
-Latin America & Caribbean,2005,Dominica,BCG,,,,98
-Latin America & Caribbean,2005,Dominica,DTP1,,,,99
-Latin America & Caribbean,2005,Dominica,DTP3,,,,98
-Latin America & Caribbean,2005,Dominica,MCV1,,,,98
-Latin America & Caribbean,2005,Dominica,MCV2,,,,99
-Latin America & Caribbean,2005,Dominica,Pol3,,,,98
-Latin America & Caribbean,2005,Dominica,RCV1,,,,98
-Latin America & Caribbean,2004,Dominica,BCG,,,,99
-Latin America & Caribbean,2004,Dominica,DTP1,,,,99
-Latin America & Caribbean,2004,Dominica,DTP3,,,,99
-Latin America & Caribbean,2004,Dominica,MCV1,,,,99
-Latin America & Caribbean,2004,Dominica,MCV2,,,,99
-Latin America & Caribbean,2004,Dominica,Pol3,,,,99
-Latin America & Caribbean,2004,Dominica,RCV1,,,,99
-Latin America & Caribbean,2003,Dominica,BCG,,,,99
-Latin America & Caribbean,2003,Dominica,DTP1,,,,99
-Latin America & Caribbean,2003,Dominica,DTP3,,,,99
-Latin America & Caribbean,2003,Dominica,MCV1,,,,99
-Latin America & Caribbean,2003,Dominica,MCV2,,,,99
-Latin America & Caribbean,2003,Dominica,Pol3,,,,99
-Latin America & Caribbean,2003,Dominica,RCV1,,,,99
-Latin America & Caribbean,2002,Dominica,BCG,,,,99
-Latin America & Caribbean,2002,Dominica,DTP1,,,,99
-Latin America & Caribbean,2002,Dominica,DTP3,,,,98
-Latin America & Caribbean,2002,Dominica,MCV1,,,,99
-Latin America & Caribbean,2002,Dominica,MCV2,,,,99
-Latin America & Caribbean,2002,Dominica,Pol3,,,,98
-Latin America & Caribbean,2002,Dominica,RCV1,,,,99
-Latin America & Caribbean,2001,Dominica,BCG,,,,99
-Latin America & Caribbean,2001,Dominica,DTP1,,,,99
-Latin America & Caribbean,2001,Dominica,DTP3,,,,99
-Latin America & Caribbean,2001,Dominica,MCV1,,,,99
-Latin America & Caribbean,2001,Dominica,MCV2,,,,62
-Latin America & Caribbean,2001,Dominica,Pol3,,,,99
-Latin America & Caribbean,2001,Dominica,RCV1,,,,99
-Latin America & Caribbean,2000,Dominica,BCG,,,,99
-Latin America & Caribbean,2000,Dominica,DTP1,,,,99
-Latin America & Caribbean,2000,Dominica,DTP3,,,,99
-Latin America & Caribbean,2000,Dominica,MCV1,,,,99
-Latin America & Caribbean,2000,Dominica,Pol3,,,,99
-Latin America & Caribbean,2000,Dominica,RCV1,,,,99
-Latin America & Caribbean,1999,Dominica,BCG,,,,99
-Latin America & Caribbean,1999,Dominica,DTP1,,,,99
-Latin America & Caribbean,1999,Dominica,DTP3,,,,99
-Latin America & Caribbean,1999,Dominica,MCV1,,,,99
-Latin America & Caribbean,1999,Dominica,Pol3,,,,99
-Latin America & Caribbean,1999,Dominica,RCV1,,,,99
-Latin America & Caribbean,1998,Dominica,BCG,,,,99
-Latin America & Caribbean,1998,Dominica,DTP1,,,,99
-Latin America & Caribbean,1998,Dominica,DTP3,,,,99
-Latin America & Caribbean,1998,Dominica,MCV1,,,,98
-Latin America & Caribbean,1998,Dominica,Pol3,,,,99
-Latin America & Caribbean,1998,Dominica,RCV1,,,,98
-Latin America & Caribbean,1997,Dominica,BCG,,,,99
-Latin America & Caribbean,1997,Dominica,DTP1,,,,97
-Latin America & Caribbean,1997,Dominica,DTP3,,,,92
-Latin America & Caribbean,1997,Dominica,MCV1,,,,99
-Latin America & Caribbean,1997,Dominica,Pol3,,,,97
-Latin America & Caribbean,1997,Dominica,RCV1,,,,99
 Latin America & Caribbean,2018,Dominican Republic,BCG,207000.0,205000.0,2000.0,99
 Latin America & Caribbean,2018,Dominican Republic,DTP1,202000.0,200000.0,2000.0,99
 Latin America & Caribbean,2018,Dominican Republic,DTP3,202000.0,190000.0,12000.0,94
@@ -3097,7 +2904,6 @@ Latin America & Caribbean,2015,Grenada,DTP1,2000.0,2000.0,0.0,94
 Latin America & Caribbean,2015,Grenada,DTP3,2000.0,2000.0,0.0,92
 Latin America & Caribbean,2015,Grenada,Hepb3,2000.0,2000.0,0.0,92
 Latin America & Caribbean,2015,Grenada,Hib3,2000.0,2000.0,0.0,92
-Latin America & Caribbean,2015,Grenada,IPV1,2000.0,,,54
 Latin America & Caribbean,2015,Grenada,MCV1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Grenada,MCV2,2000.0,2000.0,0.0,89
 Latin America & Caribbean,2015,Grenada,Pol3,2000.0,2000.0,0.0,99
@@ -3215,7 +3021,6 @@ Latin America & Caribbean,2001,Grenada,Pol3,2000.0,2000.0,0.0,96
 Latin America & Caribbean,2001,Grenada,RCV1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2000,Grenada,DTP1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2000,Grenada,DTP3,2000.0,2000.0,0.0,97
-Latin America & Caribbean,2000,Grenada,Hib3,2000.0,,,33
 Latin America & Caribbean,2000,Grenada,MCV1,2000.0,2000.0,0.0,92
 Latin America & Caribbean,2000,Grenada,Pol3,2000.0,2000.0,0.0,97
 Latin America & Caribbean,2000,Grenada,RCV1,2000.0,2000.0,0.0,92
@@ -5281,209 +5086,10 @@ Latin America & Caribbean,1997,Peru,DTP1,609000.0,585000.0,24000.0,96
 Latin America & Caribbean,1997,Peru,DTP3,609000.0,548000.0,61000.0,90
 Latin America & Caribbean,1997,Peru,MCV1,609000.0,554000.0,55000.0,91
 Latin America & Caribbean,1997,Peru,Pol3,609000.0,554000.0,55000.0,91
-Latin America & Caribbean,2018,Saint Kitts and Nevis,BCG,,,,97
-Latin America & Caribbean,2018,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2018,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2018,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2018,Saint Kitts and Nevis,Hepbb,,,,82
-Latin America & Caribbean,2018,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2018,Saint Kitts and Nevis,IPV1,,,,99
-Latin America & Caribbean,2018,Saint Kitts and Nevis,MCV1,,,,96
-Latin America & Caribbean,2018,Saint Kitts and Nevis,MCV2,,,,96
-Latin America & Caribbean,2018,Saint Kitts and Nevis,Pol3,,,,97
-Latin America & Caribbean,2018,Saint Kitts and Nevis,RCV1,,,,96
-Latin America & Caribbean,2017,Saint Kitts and Nevis,BCG,,,,97
-Latin America & Caribbean,2017,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2017,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2017,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2017,Saint Kitts and Nevis,Hepbb,,,,83
-Latin America & Caribbean,2017,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2017,Saint Kitts and Nevis,IPV1,,,,90
-Latin America & Caribbean,2017,Saint Kitts and Nevis,MCV1,,,,93
-Latin America & Caribbean,2017,Saint Kitts and Nevis,MCV2,,,,95
-Latin America & Caribbean,2017,Saint Kitts and Nevis,Pol3,,,,96
-Latin America & Caribbean,2017,Saint Kitts and Nevis,RCV1,,,,93
-Latin America & Caribbean,2016,Saint Kitts and Nevis,BCG,,,,96
-Latin America & Caribbean,2016,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2016,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2016,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2016,Saint Kitts and Nevis,Hepbb,,,,90
-Latin America & Caribbean,2016,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2016,Saint Kitts and Nevis,IPV1,,,,93
-Latin America & Caribbean,2016,Saint Kitts and Nevis,MCV1,,,,94
-Latin America & Caribbean,2016,Saint Kitts and Nevis,MCV2,,,,96
-Latin America & Caribbean,2016,Saint Kitts and Nevis,Pol3,,,,99
-Latin America & Caribbean,2016,Saint Kitts and Nevis,RCV1,,,,94
-Latin America & Caribbean,2015,Saint Kitts and Nevis,BCG,,,,95
-Latin America & Caribbean,2015,Saint Kitts and Nevis,DTP1,,,,96
-Latin America & Caribbean,2015,Saint Kitts and Nevis,DTP3,,,,93
-Latin America & Caribbean,2015,Saint Kitts and Nevis,Hepb3,,,,94
-Latin America & Caribbean,2015,Saint Kitts and Nevis,Hepbb,,,,18
-Latin America & Caribbean,2015,Saint Kitts and Nevis,Hib3,,,,94
-Latin America & Caribbean,2015,Saint Kitts and Nevis,MCV1,,,,95
-Latin America & Caribbean,2015,Saint Kitts and Nevis,MCV2,,,,90
-Latin America & Caribbean,2015,Saint Kitts and Nevis,Pol3,,,,90
-Latin America & Caribbean,2015,Saint Kitts and Nevis,RCV1,,,,95
-Latin America & Caribbean,2014,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2014,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2014,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2014,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2014,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2014,Saint Kitts and Nevis,MCV1,,,,93
-Latin America & Caribbean,2014,Saint Kitts and Nevis,MCV2,,,,90
-Latin America & Caribbean,2014,Saint Kitts and Nevis,Pol3,,,,95
-Latin America & Caribbean,2014,Saint Kitts and Nevis,RCV1,,,,93
-Latin America & Caribbean,2013,Saint Kitts and Nevis,BCG,,,,94
-Latin America & Caribbean,2013,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2013,Saint Kitts and Nevis,DTP3,,,,96
-Latin America & Caribbean,2013,Saint Kitts and Nevis,Hepb3,,,,97
-Latin America & Caribbean,2013,Saint Kitts and Nevis,Hib3,,,,97
-Latin America & Caribbean,2013,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2013,Saint Kitts and Nevis,MCV2,,,,94
-Latin America & Caribbean,2013,Saint Kitts and Nevis,Pol3,,,,96
-Latin America & Caribbean,2013,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2012,Saint Kitts and Nevis,BCG,,,,95
-Latin America & Caribbean,2012,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2012,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2012,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2012,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2012,Saint Kitts and Nevis,MCV1,,,,95
-Latin America & Caribbean,2012,Saint Kitts and Nevis,MCV2,,,,90
-Latin America & Caribbean,2012,Saint Kitts and Nevis,Pol3,,,,97
-Latin America & Caribbean,2012,Saint Kitts and Nevis,RCV1,,,,95
-Latin America & Caribbean,2011,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2011,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2011,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2011,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2011,Saint Kitts and Nevis,Hib3,,,,98
-Latin America & Caribbean,2011,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2011,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2011,Saint Kitts and Nevis,Pol3,,,,98
-Latin America & Caribbean,2011,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2010,Saint Kitts and Nevis,BCG,,,,91
-Latin America & Caribbean,2010,Saint Kitts and Nevis,DTP1,,,,98
-Latin America & Caribbean,2010,Saint Kitts and Nevis,DTP3,,,,95
-Latin America & Caribbean,2010,Saint Kitts and Nevis,Hepb3,,,,96
-Latin America & Caribbean,2010,Saint Kitts and Nevis,Hib3,,,,96
-Latin America & Caribbean,2010,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2010,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2010,Saint Kitts and Nevis,Pol3,,,,90
-Latin America & Caribbean,2010,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2009,Saint Kitts and Nevis,BCG,,,,93
-Latin America & Caribbean,2009,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2009,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,2009,Saint Kitts and Nevis,Hepb3,,,,97
-Latin America & Caribbean,2009,Saint Kitts and Nevis,Hib3,,,,97
-Latin America & Caribbean,2009,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2009,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2009,Saint Kitts and Nevis,Pol3,,,,94
-Latin America & Caribbean,2009,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2008,Saint Kitts and Nevis,BCG,,,,95
-Latin America & Caribbean,2008,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2008,Saint Kitts and Nevis,DTP3,,,,98
-Latin America & Caribbean,2008,Saint Kitts and Nevis,Hepb3,,,,98
-Latin America & Caribbean,2008,Saint Kitts and Nevis,Hib3,,,,97
-Latin America & Caribbean,2008,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2008,Saint Kitts and Nevis,MCV2,,,,94
-Latin America & Caribbean,2008,Saint Kitts and Nevis,Pol3,,,,97
-Latin America & Caribbean,2008,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,BCG,,,,97
-Latin America & Caribbean,2007,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,DTP3,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,Hib3,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,MCV2,,,,95
-Latin America & Caribbean,2007,Saint Kitts and Nevis,Pol3,,,,99
-Latin America & Caribbean,2007,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,DTP3,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,Hib3,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2006,Saint Kitts and Nevis,MCV2,,,,96
-Latin America & Caribbean,2006,Saint Kitts and Nevis,Pol3,,,,98
-Latin America & Caribbean,2006,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,DTP3,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,Hib3,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,MCV2,,,,97
-Latin America & Caribbean,2005,Saint Kitts and Nevis,Pol3,,,,99
-Latin America & Caribbean,2005,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2004,Saint Kitts and Nevis,BCG,,,,89
-Latin America & Caribbean,2004,Saint Kitts and Nevis,DTP1,,,,98
-Latin America & Caribbean,2004,Saint Kitts and Nevis,DTP3,,,,95
-Latin America & Caribbean,2004,Saint Kitts and Nevis,Hepb3,,,,96
-Latin America & Caribbean,2004,Saint Kitts and Nevis,Hib3,,,,95
-Latin America & Caribbean,2004,Saint Kitts and Nevis,MCV1,,,,98
-Latin America & Caribbean,2004,Saint Kitts and Nevis,MCV2,,,,98
-Latin America & Caribbean,2004,Saint Kitts and Nevis,Pol3,,,,95
-Latin America & Caribbean,2004,Saint Kitts and Nevis,RCV1,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2003,Saint Kitts and Nevis,DTP1,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,DTP3,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2003,Saint Kitts and Nevis,Hib3,,,,99
-Latin America & Caribbean,2003,Saint Kitts and Nevis,MCV1,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,MCV2,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,Pol3,,,,98
-Latin America & Caribbean,2003,Saint Kitts and Nevis,RCV1,,,,98
-Latin America & Caribbean,2002,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2002,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2002,Saint Kitts and Nevis,DTP3,,,,96
-Latin America & Caribbean,2002,Saint Kitts and Nevis,Hepb3,,,,96
-Latin America & Caribbean,2002,Saint Kitts and Nevis,Hib3,,,,95
-Latin America & Caribbean,2002,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2002,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2002,Saint Kitts and Nevis,Pol3,,,,96
-Latin America & Caribbean,2002,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,BCG,,,,95
-Latin America & Caribbean,2001,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,DTP3,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,Hib3,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,MCV1,,,,90
-Latin America & Caribbean,2001,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,Pol3,,,,99
-Latin America & Caribbean,2001,Saint Kitts and Nevis,RCV1,,,,90
-Latin America & Caribbean,2000,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,2000,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,2000,Saint Kitts and Nevis,DTP3,,,,98
-Latin America & Caribbean,2000,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,2000,Saint Kitts and Nevis,Hib3,,,,12
-Latin America & Caribbean,2000,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,2000,Saint Kitts and Nevis,MCV2,,,,99
-Latin America & Caribbean,2000,Saint Kitts and Nevis,Pol3,,,,98
-Latin America & Caribbean,2000,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,1999,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,1999,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,1999,Saint Kitts and Nevis,DTP3,,,,98
-Latin America & Caribbean,1999,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,1999,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,1999,Saint Kitts and Nevis,Pol3,,,,98
-Latin America & Caribbean,1999,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,1998,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,1998,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,1998,Saint Kitts and Nevis,DTP3,,,,97
-Latin America & Caribbean,1998,Saint Kitts and Nevis,Hepb3,,,,99
-Latin America & Caribbean,1998,Saint Kitts and Nevis,MCV1,,,,99
-Latin America & Caribbean,1998,Saint Kitts and Nevis,Pol3,,,,97
-Latin America & Caribbean,1998,Saint Kitts and Nevis,RCV1,,,,99
-Latin America & Caribbean,1997,Saint Kitts and Nevis,BCG,,,,99
-Latin America & Caribbean,1997,Saint Kitts and Nevis,DTP1,,,,99
-Latin America & Caribbean,1997,Saint Kitts and Nevis,DTP3,,,,99
-Latin America & Caribbean,1997,Saint Kitts and Nevis,MCV1,,,,97
-Latin America & Caribbean,1997,Saint Kitts and Nevis,Pol3,,,,99
-Latin America & Caribbean,1997,Saint Kitts and Nevis,RCV1,,,,97
 Latin America & Caribbean,2018,Saint Lucia,BCG,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2018,Saint Lucia,DTP1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2018,Saint Lucia,DTP3,2000.0,2000.0,0.0,95
 Latin America & Caribbean,2018,Saint Lucia,Hepb3,2000.0,2000.0,0.0,95
-Latin America & Caribbean,2018,Saint Lucia,Hepbb,2000.0,,,17
 Latin America & Caribbean,2018,Saint Lucia,Hib3,2000.0,2000.0,0.0,95
 Latin America & Caribbean,2018,Saint Lucia,IPV1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2018,Saint Lucia,MCV1,2000.0,2000.0,0.0,86
@@ -5515,7 +5121,6 @@ Latin America & Caribbean,2015,Saint Lucia,DTP1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Lucia,DTP3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Lucia,Hepb3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Lucia,Hib3,2000.0,2000.0,0.0,99
-Latin America & Caribbean,2015,Saint Lucia,IPV1,2000.0,,,21
 Latin America & Caribbean,2015,Saint Lucia,MCV1,2000.0,2000.0,0.0,97
 Latin America & Caribbean,2015,Saint Lucia,MCV2,2000.0,2000.0,0.0,95
 Latin America & Caribbean,2015,Saint Lucia,Pol3,2000.0,2000.0,0.0,99
@@ -5580,7 +5185,6 @@ Latin America & Caribbean,2008,Saint Lucia,DTP3,2000.0,2000.0,0.0,96
 Latin America & Caribbean,2008,Saint Lucia,Hepb3,2000.0,2000.0,0.0,96
 Latin America & Caribbean,2008,Saint Lucia,Hib3,2000.0,2000.0,0.0,96
 Latin America & Caribbean,2008,Saint Lucia,MCV1,2000.0,2000.0,0.0,99
-Latin America & Caribbean,2008,Saint Lucia,MCV2,3000.0,,,22
 Latin America & Caribbean,2008,Saint Lucia,Pol3,2000.0,2000.0,0.0,96
 Latin America & Caribbean,2008,Saint Lucia,RCV1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2007,Saint Lucia,BCG,2000.0,2000.0,0.0,99
@@ -5589,7 +5193,6 @@ Latin America & Caribbean,2007,Saint Lucia,DTP3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2007,Saint Lucia,Hepb3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2007,Saint Lucia,Hib3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2007,Saint Lucia,MCV1,2000.0,2000.0,0.0,94
-Latin America & Caribbean,2007,Saint Lucia,MCV2,3000.0,,,33
 Latin America & Caribbean,2007,Saint Lucia,Pol3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2007,Saint Lucia,RCV1,2000.0,2000.0,0.0,94
 Latin America & Caribbean,2006,Saint Lucia,BCG,2000.0,2000.0,0.0,94
@@ -5631,8 +5234,6 @@ Latin America & Caribbean,2003,Saint Lucia,RCV1,2000.0,2000.0,0.0,90
 Latin America & Caribbean,2002,Saint Lucia,BCG,3000.0,3000.0,0.0,95
 Latin America & Caribbean,2002,Saint Lucia,DTP1,3000.0,3000.0,0.0,99
 Latin America & Caribbean,2002,Saint Lucia,DTP3,3000.0,2000.0,1000.0,74
-Latin America & Caribbean,2002,Saint Lucia,Hepb3,3000.0,,,14
-Latin America & Caribbean,2002,Saint Lucia,Hib3,3000.0,,,14
 Latin America & Caribbean,2002,Saint Lucia,MCV1,3000.0,3000.0,0.0,98
 Latin America & Caribbean,2002,Saint Lucia,MCV2,3000.0,2000.0,1000.0,71
 Latin America & Caribbean,2002,Saint Lucia,Pol3,3000.0,2000.0,1000.0,90
@@ -5684,7 +5285,6 @@ Latin America & Caribbean,2017,Saint Vincent and the Grenadines,BCG,2000.0,2000.
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,DTP1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,DTP3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,Hepb3,2000.0,2000.0,0.0,99
-Latin America & Caribbean,2017,Saint Vincent and the Grenadines,Hepbb,2000.0,,,30
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,Hib3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,IPV1,2000.0,1000.0,1000.0,96
 Latin America & Caribbean,2017,Saint Vincent and the Grenadines,MCV1,2000.0,2000.0,0.0,99
@@ -5706,7 +5306,6 @@ Latin America & Caribbean,2015,Saint Vincent and the Grenadines,DTP1,2000.0,2000
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,DTP3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,Hepb3,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,Hib3,2000.0,2000.0,0.0,99
-Latin America & Caribbean,2015,Saint Vincent and the Grenadines,IPV1,2000.0,,,54
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,MCV1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,MCV2,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2015,Saint Vincent and the Grenadines,Pol3,2000.0,2000.0,0.0,99
@@ -5813,8 +5412,6 @@ Latin America & Caribbean,2004,Saint Vincent and the Grenadines,RCV1,2000.0,2000
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,BCG,2000.0,2000.0,0.0,87
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,DTP1,2000.0,2000.0,0.0,99
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,DTP3,2000.0,2000.0,0.0,99
-Latin America & Caribbean,2003,Saint Vincent and the Grenadines,Hepb3,2000.0,,,31
-Latin America & Caribbean,2003,Saint Vincent and the Grenadines,Hib3,2000.0,,,27
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,MCV1,2000.0,2000.0,0.0,94
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,MCV2,2000.0,2000.0,0.0,86
 Latin America & Caribbean,2003,Saint Vincent and the Grenadines,Pol3,2000.0,2000.0,0.0,99
@@ -6189,7 +5786,6 @@ Latin America & Caribbean,2003,Trinidad and Tobago,RCV1,19000.0,16000.0,3000.0,8
 Latin America & Caribbean,2003,Trinidad and Tobago,YFV,19000.0,16000.0,3000.0,88
 Latin America & Caribbean,2002,Trinidad and Tobago,DTP1,18000.0,18000.0,0.0,98
 Latin America & Caribbean,2002,Trinidad and Tobago,DTP3,18000.0,18000.0,0.0,96
-Latin America & Caribbean,2002,Trinidad and Tobago,Hepb3,18000.0,,,5
 Latin America & Caribbean,2002,Trinidad and Tobago,Hib3,18000.0,11000.0,7000.0,59
 Latin America & Caribbean,2002,Trinidad and Tobago,MCV1,18000.0,16000.0,2000.0,87
 Latin America & Caribbean,2002,Trinidad and Tobago,MCV2,18000.0,14000.0,4000.0,77
